@@ -3,4 +3,3 @@ requests==2.21.0
 boto3==1.9.174
 folium==0.9.1
 datetime
-decimal
