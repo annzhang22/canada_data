@@ -4,3 +4,7 @@ boto3==1.9.71
 folium==0.9.1
 datetime
 matplotlib
+numpy
+sklearn
+geopy
+shapely
