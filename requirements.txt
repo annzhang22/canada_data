@@ -8,3 +8,5 @@ numpy
 sklearn
 geopy
 shapely
+ipywidgets 
+pytz
